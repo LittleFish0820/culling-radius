@@ -212,7 +212,4 @@ if __name__ == "__main__":
     
     data, t = risk_based_culling(data, matrix_d, t)
     showMap(data)
-    
-    
-    
-
+        
